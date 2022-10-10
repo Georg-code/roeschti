@@ -66,7 +66,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "bruch" => "use",
         "in" => "into",
         "wahr" => "true",
-        "enumeration" => "enum",
+        "ufzellig" => "enum",
 
         _ => &ident_str,
     };
