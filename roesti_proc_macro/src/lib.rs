@@ -24,7 +24,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "chiste" => "crate",
         "code_unerreichbar" => "unreachable_code",
         "als" => "as",
-        "konstant" => "const",
+        "konstant" | "festi_grössi" => "const",
         "eigeschaft" => "trait",
         "unsicher" => "unsafe",
         "in" => "in",
