@@ -54,7 +54,7 @@ roeschti::roeschti! {
 ## Mitmache
 
 First of all, _merci_ for considering participating to this joke, the
-Swiss government and Rodger Federer will thank you later! Feel free to throw in a few identifiers
+Swiss government and Roger Federer will thank you later! Feel free to throw in a few identifiers
 here and there, and open a pull-request against the `hauptast` (Swissgerman for
 `mainbranch`).
 
