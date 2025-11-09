@@ -11,7 +11,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "Standard" => "Default",
         "Fähler" => "Error",
         "Vilicht" => "Option",
-        "Espaar" => "Some",
+        "Öppis" => "Some",
         "Nüt" => "None",
         "Resultat" => "Result",
         "Selber" => "Self",
