@@ -29,7 +29,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "unsicher" | "gföhrli" => "unsafe",
         "in" => "in",
         "vo" => "from",
-        "dynamisch" | "juflig" => "dyn",
+        "dynamisch" | "juflig" => "dyn",
         "uspacke" => "unwrap",
         "standard" | "nullacht_füfzä" => "default",
         "als_referenz" => "as_ref",
