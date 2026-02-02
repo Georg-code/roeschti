@@ -15,7 +15,7 @@ fn replace_ident(ident: Ident) -> Option<TokenTree> {
         "Nüt" => "None",
         "Resultat" | "Summa_Summarum" => "Result",
         "Selber" => "Self",
-        "usdrucke" | "säg" => "println",
+        "usdrucke" | "säg" => "println",
         "ahalte" | "item" | "momentli" => "break",
         "asynchron" | "chum_i_hüt_nöd_chumi_morn" => "async",
         "druf-warte" => "await",
